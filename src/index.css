@@ -1,3 +1,15 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom styles can go below here */
+body {
+  background-color: #1a1a1a; /* Dark theme background */
+  color: #ffffff;
+}
+
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
